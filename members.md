@@ -33,7 +33,7 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Owain Jones</h3>
-        <p>Gloucestershire hailing Artificial Intelligence and Robotics student. Currently working an industrial year with the Remote Sensing Group at Plymouth Marine Laboratory. Particularly interested in the field of Search and Rescue robotics.</p>
+        <p>Gloucestershire hailing Artificial Intelligence and Robotics student. Currently working an industrial year with the Remote Sensing Group at Plymouth Marine Laboratory. Particularly interested in the field of Search and Rescue robotics. Hedgehogs.</p>
         <small><a href="http://odj.me/">odj.me</a></small>
     </div>
     <div class="span3">
